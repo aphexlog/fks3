@@ -18,5 +18,3 @@ then if you run `inv the <task_name>` you'll get that task to run.
 
 ### Why?
 I was tired of having to remember the aws cli commands to do simple things like list buckets, delete buckets, empty buckets, etc. So I made this.
-
-### How do I use it?
