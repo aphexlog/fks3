@@ -3,7 +3,7 @@
 ### What in the hell is this thing?
 This is a simple cli-based tool to help you manage your S3 buckets.
 
-## How do I set it up?
+### How do I set it up?
 by running `pip install -r requirements.txt` in the root directory of the project.
 ### How do I use it?
 If you do this.. `inv --list`
